@@ -6,14 +6,14 @@ include_once('config.php');
 <head>
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
         <div class="container">
-            <a class="navbar-brand " style="font-size:26px;" href="<?php echo PATH; ?>">OC Money Group</a>
+            <a class="navbar-brand " style="font-size:26px;" href="<?php echo PATH; ?>">เฮือนช้างเผือก</a>
         </div>
     </nav>
 </head>
 
-<body style="background-image: url('<?php echo PATH; ?>/img/BG.jpg')">>
+<body style="background-image: url('<?php echo PATH; ?>/img/BG.jpg')">
     <div class="login ">
-        <h1> <img src="img/LOGO LOGIN.png" width="100px;"></h1>
+        <h1> <img src="img/DHTLOGO.png" width="50%;"></h1>
         <form action="login_result.php" method="post">
             <label for="username">
                 <i class="fas fa-user"></i>
